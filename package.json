@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "express": "^4.18.2",
     "mongoose": "^8.1.1",
     "react": "^18.2.0",
@@ -14,6 +15,11 @@
     "react-scripts": "5.0.1",
     "socket.io": "^4.7.4",
     "socket.io-client": "^4.7.4",
+=======
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+>>>>>>> 680d318 (Initialize project using Create React App)
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -39,10 +45,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+  }
+>>>>>>> 680d318 (Initialize project using Create React App)
 }
