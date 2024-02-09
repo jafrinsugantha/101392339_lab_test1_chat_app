@@ -36,6 +36,8 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Signup from './components/Signup';
 import Login from './components/Login';
 import Dashboard from './components/Dashboard';
+import logo from './logo.svg';
+import './App.css';
 
 function App() {
   return (
@@ -46,10 +48,7 @@ function App() {
         <Route path="/dashboard" element={<Dashboard />} />
       </Routes>
     </Router>
-=======
-import logo from './logo.svg';
-import './App.css';
-
+    
 function App() {
   return (
     <div className="App">
@@ -68,12 +67,7 @@ function App() {
         </a>
       </header>
     </div>
->>>>>>> 680d318 (Initialize project using Create React App)
   );
 }
 
 export default App;
-<<<<<<< HEAD
-
-=======
->>>>>>> 680d318 (Initialize project using Create React App)
